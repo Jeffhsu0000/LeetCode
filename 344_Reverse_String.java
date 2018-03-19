@@ -25,5 +25,3 @@ public class Merge_Two_Binary_LeetCode{
         System.out.println(reverseString("hello"));
      }
 }
-Sincerely,
-Jeff
