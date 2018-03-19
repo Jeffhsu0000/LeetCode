@@ -15,7 +15,6 @@ Output: 3
 Example 2:
 Input: J = "z", S = "ZZ"
 Output: 0
-
 */
 
 import java.util.*; // Set Support
