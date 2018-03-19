@@ -1,0 +1,9 @@
+Weekly Report
+(2018/03/12-2018/03/16)
+Jeff Hsu
+
+Fix sequence for p2pcore, core64, atomic.
+
+Function reconstructed for rdrsp.
+
+Update the input parameter for p2pcore, p2pcoh to struct.
